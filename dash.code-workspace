@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "D:\\projects\\inseego\\DMS"
+		}
+	],
+	"settings": {
+		"python.pythonPath": "env\\Scripts\\python.exe",
+		"git.ignoreLimitWarning": true
+	}
+}
